@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maicol Andres</h1>
+<h1 align="center">Hi 👋, I'm Michael Andres</h1>
 <h3 align="center">A passionate fullstack developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp">
 
