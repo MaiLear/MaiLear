@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mailear&label=Profile%20views&color=0e75b6&style=flat" alt="mailear" /> </p>
 
-- 🌱 I’m currently learning **PHP,Laravel**
+- 🌱 I’m currently learning **Dart,Flutter**
 
 - 📫 How to reach me **mairotavista@gmail.com**
 
